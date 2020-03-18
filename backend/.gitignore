@@ -1,0 +1,6 @@
+.idea/
+__pycache__/
+env/
+.env
+app.db
+blog.log*
